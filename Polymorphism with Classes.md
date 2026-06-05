@@ -1,4 +1,4 @@
-# # 🐍 Python OOP: Polymorphism with Classes
+🐍 Python OOP: Polymorphism with Classes
 
 ## 🎯 AIM
 
@@ -47,7 +47,8 @@ func(obj_beans)
 func(obj_mango)
 ```
 ## Output
-![Uploading 503130852-913d02d5-d168-4ebc-86a7-0aa1f299bc2d.png…]()
+<img width="306" height="235" alt="503130852-913d02d5-d168-4ebc-86a7-0aa1f299bc2d" src="https://github.com/user-attachments/assets/da53c18c-1c28-4ed1-af5c-704a84fddd1f" />
+
 
 
 ## Result
